@@ -1,31 +1,28 @@
 .lead__main-image {
-    margin: 0 auto;
-    width: 100%;
-    height: 615px;
     background-image: url(../../../images/__window.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: 50%;
+    background-position: center;
+    margin: 0 auto;
+    width: 100%;
+    min-height: 615px;
     display: block;
 }
 
 @media screen and (min-width: 1024px) and (max-width: 1279px) {
     .lead__main-image {
-        background-size: contain;
-        max-width: 100%;
+        min-height: 580px;
     }
 }
 
 @media screen and (min-width: 768px) and (max-width: 1023px) {
     .lead__main-image {
-        background-size: contain;
-        height: 480px;
+        min-height: 480px;
     }
 }
 
 @media screen and (max-width: 767px) {
     .lead__main-image {
-        background-size: contain;
-        max-height: 200px;
+        min-height: 200px;
     }
 }

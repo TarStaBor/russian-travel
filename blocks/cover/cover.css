@@ -2,9 +2,9 @@
     position: relative;
     margin: 92px auto 0;
     max-width: 1184px;
-    display: flex;
+    /* display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: center; */
     align-items: center;
     width: 100%;
 }

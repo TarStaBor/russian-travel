@@ -1,0 +1,27 @@
+.photo-grid__item {
+    width: 100%;
+    transition: transform .5s ease-in-out;
+    overflow: hidden;
+}
+
+.photo-grid__item:hover {
+    transform: scale(1.113, 1.18);
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
+    .photo-grid__item:hover {
+        transform: scale(1.085, 1.135);
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+    .photo-grid__item:hover {
+        transform: none;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .photo-grid__item:hover {
+        transform: none;
+    }
+}

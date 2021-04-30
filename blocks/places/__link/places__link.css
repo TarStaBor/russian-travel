@@ -1,0 +1,11 @@
+.places__link {
+    margin: 0;
+    max-width: 456px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 1.22;
+    text-decoration-line: underline;
+    color: #FFFFFF;
+}

@@ -4,7 +4,6 @@
     grid-template-columns: repeat(2, minmax(min-content, max-content));
     gap: 18px;
     align-items: end;
-    margin: 0;
     padding: 0;
     list-style-type: none;
 }

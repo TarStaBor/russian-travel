@@ -21,7 +21,9 @@
 - ### Технология Grid Layout
 - ### Разработка интерфейса для разных устройств, адаптивность
 
-- ### [Посмотреть работу:](https://tarstabor.github.io/russian-travel/)
+---
+
+## [Посмотреть работу:](https://tarstabor.github.io/russian-travel/)
 
 ---
 

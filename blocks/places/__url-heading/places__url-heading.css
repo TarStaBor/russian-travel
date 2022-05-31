@@ -1,12 +1,12 @@
 .places__url-heading {
-    margin: 0;
-    padding-bottom: 12px;
-    max-width: 456px;
-    font-family: Inter, Arial, sans-serif;
-    font-style: normal;
-    font-weight: 400;
-    font-size: 12px;
-    line-height: 1;
-    letter-spacing: 0.2em;
-    color: #AAAAAA;
+  margin: 0;
+  padding-bottom: 12px;
+  max-width: 456px;
+  font-family: Inter, Arial, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 1;
+  letter-spacing: 0.2em;
+  color: #aaaaaa;
 }

@@ -1,19 +1,19 @@
 .cover {
-    position: relative;
-    margin: 92px auto 0;
-    max-width: 1184px;
-    align-items: center;
-    width: 100%;
+  position: relative;
+  margin: 92px auto 0;
+  max-width: 1184px;
+  align-items: center;
+  width: 100%;
 }
 
 @media screen and (min-width: 768px) and (max-width: 1023px) {
-    .cover {
-        margin: 90px auto 0;
-    }
+  .cover {
+    margin: 90px auto 0;
+  }
 }
 
 @media screen and (max-width: 767px) {
-    .cover {
-        margin: 66px auto 0;
-    }
+  .cover {
+    margin: 66px auto 0;
+  }
 }

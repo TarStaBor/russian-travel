@@ -1,14 +1,14 @@
 .intro__fact {
-    font-family: Inter, Arial, sans-serif;
-    font-style: normal;
-    font-weight: 700;
-    font-size: 12px;
-    line-height: 1.5;
-    list-style: none;
+  font-family: Inter, Arial, sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 1.5;
+  list-style: none;
 }
 
 @media screen and (max-width: 1023px) {
-    .intro__fact {
-        max-width: 100%;
-    }
+  .intro__fact {
+    max-width: 100%;
+  }
 }
